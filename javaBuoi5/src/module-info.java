@@ -1,0 +1,2 @@
+module javaBuoi5 {
+}
